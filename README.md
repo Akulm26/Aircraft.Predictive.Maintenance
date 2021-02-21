@@ -1,4 +1,4 @@
-# Aircraft.Predictive.Maintenance
+# Aircraft Predictive Maintenance
 
 This predictive maintenance project focuses on the techniques used to predict the time an in-service machine will fail, for planning maintenance in advance. In particular, this project illustrates the process of predicting future failure events in the scenario of aircraft turbofan engine failures.
 
